@@ -1,0 +1,33 @@
+{
+  "name": "hex-core",
+  "description": "",
+  "keywords": [
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/eserozvataf/hex-core#readme",
+  "author": "Eser Ozvataf <eser@ozvataf.com>",
+  "contributors": [
+    {
+      "name": "Eser Ozvataf",
+      "email": "eser@ozvataf.com",
+      "url": "http://eser.ozvataf.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eserozvataf/hex-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eserozvataf/hex-core/issues"
+  },
+  "license": "Apache-2.0",
+  "main": "./src/index.js",
+  "engines": {
+    "node": ">=8.10.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
